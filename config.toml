@@ -1,4 +1,4 @@
-baseURL = "https://JohnEdChristensen.Github.io/JohnEdChristensen.github.io/"
+baseURL = "https://JohnEdChristensen.Github.io/"
 languageCode = "en-us"
 googleAnalytics = "G-HW0WS3WFZW"
 relativeURLs = true
