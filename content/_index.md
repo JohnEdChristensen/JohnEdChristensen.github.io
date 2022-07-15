@@ -2,7 +2,6 @@
 title: "Start Page"
 ---
 
-[[JohnEdChristensen.github.io/content/notes/Test Note]]
 
 [[notes/Test Note]]
 
