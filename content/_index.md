@@ -2,9 +2,12 @@
 title: "Start Page"
 ---
 
-[[Test Note]]
 [[JohnEdChristensen.github.io/content/notes/Test Note]]
+
 [[notes/Test Note]]
+
+[[notes/custom Domain]]
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
