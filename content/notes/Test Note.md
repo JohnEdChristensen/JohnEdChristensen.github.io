@@ -1,5 +1,5 @@
 ---
-Title: "My Test Note"
+Title: "Test Note"
 tags:
 - example-tag
 ---
