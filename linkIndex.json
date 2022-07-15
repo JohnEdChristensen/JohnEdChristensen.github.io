@@ -1,0 +1,587 @@
+{
+  "index": {
+    "links": {
+      "content/": [
+        {
+          "source": "content/",
+          "target": "/Test-Note",
+          "text": "Test Note"
+        },
+        {
+          "source": "content/",
+          "target": "/JohnEdChristensen.github.io/content/notes/Test-Note",
+          "text": "JohnEdChristensen.github.io/content/notes/Test Note"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/Test-Note",
+          "text": "notes/Test Note"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/setup",
+          "text": "Setup your own digital garden using Quartz"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/showcase",
+          "text": "community digital gardens"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/philosophy",
+          "text": "why I made Quartz"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/updating",
+          "text": "update"
+        },
+        {
+          "source": "content/",
+          "target": "/tags/setup",
+          "text": "setup-related notes"
+        },
+        {
+          "source": "content/",
+          "target": "/notes/troubleshooting",
+          "text": "Troubleshooting and FAQ"
+        }
+      ],
+      "content/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "content/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "target": "/notes/config",
+          "text": "config"
+        }
+      ],
+      "content/notes/config": [
+        {
+          "source": "content/notes/config",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content/notes/config",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        }
+      ],
+      "content/notes/editing": [
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Quartz"
+        },
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        },
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content/notes/hosting": [
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/custom-Domain",
+          "text": "Learn how to set it up with Quartz"
+        },
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/config",
+          "text": "Customizing Quartz"
+        },
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content/notes/obsidian": [
+        {
+          "source": "content/notes/obsidian",
+          "target": "/notes/setup",
+          "text": "setup"
+        },
+        {
+          "source": "content/notes/obsidian",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        }
+      ],
+      "content/notes/preview-changes": [
+        {
+          "source": "content/notes/preview-changes",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        }
+      ],
+      "content/notes/setup": [
+        {
+          "source": "content/notes/setup",
+          "target": "/notes/editing",
+          "text": "Editing Notes in Quartz"
+        },
+        {
+          "source": "content/notes/setup",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content/notes/troubleshooting": [
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/ignore-notes",
+          "text": "excluding pages from being published"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/obsidian",
+          "text": "Obsidian"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "the hosting guide"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/config",
+          "text": "customization guide"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/editing",
+          "text": "local editing"
+        }
+      ]
+    },
+    "backlinks": {
+      "/JohnEdChristensen.github.io/content/notes/Test-Note": [
+        {
+          "source": "content/",
+          "target": "/JohnEdChristensen.github.io/content/notes/Test-Note",
+          "text": "JohnEdChristensen.github.io/content/notes/Test Note"
+        }
+      ],
+      "/Test-Note": [
+        {
+          "source": "content/",
+          "target": "/Test-Note",
+          "text": "Test Note"
+        }
+      ],
+      "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "content/",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support"
+        },
+        {
+          "source": "content/notes/config",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        }
+      ],
+      "/notes/Test-Note": [
+        {
+          "source": "content/",
+          "target": "/notes/Test-Note",
+          "text": "notes/Test Note"
+        }
+      ],
+      "/notes/config": [
+        {
+          "source": "content/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "target": "/notes/config",
+          "text": "config"
+        },
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/config",
+          "text": "Customizing Quartz"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/config",
+          "text": "customization guide"
+        }
+      ],
+      "/notes/custom-Domain": [
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/custom-Domain",
+          "text": "Learn how to set it up with Quartz"
+        }
+      ],
+      "/notes/editing": [
+        {
+          "source": "content/notes/setup",
+          "target": "/notes/editing",
+          "text": "Editing Notes in Quartz"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/editing",
+          "text": "local editing"
+        }
+      ],
+      "/notes/hosting": [
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "content/notes/preview-changes",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "the hosting guide"
+        }
+      ],
+      "/notes/ignore-notes": [
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/ignore-notes",
+          "text": "excluding pages from being published"
+        }
+      ],
+      "/notes/obsidian": [
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Quartz"
+        },
+        {
+          "source": "content/notes/troubleshooting",
+          "target": "/notes/obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/philosophy": [
+        {
+          "source": "content/",
+          "target": "/notes/philosophy",
+          "text": "why I made Quartz"
+        }
+      ],
+      "/notes/preview-changes": [
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        },
+        {
+          "source": "content/notes/obsidian",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        }
+      ],
+      "/notes/setup": [
+        {
+          "source": "content/",
+          "target": "/notes/setup",
+          "text": "Setup your own digital garden using Quartz"
+        },
+        {
+          "source": "content/notes/obsidian",
+          "target": "/notes/setup",
+          "text": "setup"
+        }
+      ],
+      "/notes/showcase": [
+        {
+          "source": "content/",
+          "target": "/notes/showcase",
+          "text": "community digital gardens"
+        }
+      ],
+      "/notes/troubleshooting": [
+        {
+          "source": "content/",
+          "target": "/notes/troubleshooting",
+          "text": "Troubleshooting and FAQ"
+        },
+        {
+          "source": "content/notes/config",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content/notes/editing",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content/notes/hosting",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content/notes/setup",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/notes/updating": [
+        {
+          "source": "content/",
+          "target": "/notes/updating",
+          "text": "update"
+        }
+      ],
+      "/tags/setup": [
+        {
+          "source": "content/",
+          "target": "/tags/setup",
+          "text": "setup-related notes"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "content/",
+      "target": "/Test-Note",
+      "text": "Test Note"
+    },
+    {
+      "source": "content/",
+      "target": "/JohnEdChristensen.github.io/content/notes/Test-Note",
+      "text": "JohnEdChristensen.github.io/content/notes/Test Note"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/Test-Note",
+      "text": "notes/Test Note"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/setup",
+      "text": "Setup your own digital garden using Quartz"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/showcase",
+      "text": "community digital gardens"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/philosophy",
+      "text": "why I made Quartz"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/updating",
+      "text": "update"
+    },
+    {
+      "source": "content/",
+      "target": "/tags/setup",
+      "text": "setup-related notes"
+    },
+    {
+      "source": "content/",
+      "target": "/notes/troubleshooting",
+      "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "content/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "target": "/notes/config",
+      "text": "config"
+    },
+    {
+      "source": "content/notes/config",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content/notes/config",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support (测试)"
+    },
+    {
+      "source": "content/notes/editing",
+      "target": "/notes/obsidian",
+      "text": "How to setup your Obsidian Vault to work with Quartz"
+    },
+    {
+      "source": "content/notes/editing",
+      "target": "/notes/preview-changes",
+      "text": "Preview Quartz Changes"
+    },
+    {
+      "source": "content/notes/editing",
+      "target": "/notes/hosting",
+      "text": "Hosting Quartz online!"
+    },
+    {
+      "source": "content/notes/editing",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content/notes/hosting",
+      "target": "/notes/custom-Domain",
+      "text": "Learn how to set it up with Quartz"
+    },
+    {
+      "source": "content/notes/hosting",
+      "target": "/notes/ignore-notes",
+      "text": "Excluding pages from being published"
+    },
+    {
+      "source": "content/notes/hosting",
+      "target": "/notes/config",
+      "text": "Customizing Quartz"
+    },
+    {
+      "source": "content/notes/hosting",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content/notes/obsidian",
+      "target": "/notes/setup",
+      "text": "setup"
+    },
+    {
+      "source": "content/notes/obsidian",
+      "target": "/notes/preview-changes",
+      "text": "Preview Quartz Changes"
+    },
+    {
+      "source": "content/notes/preview-changes",
+      "target": "/notes/hosting",
+      "text": "Hosting Quartz online!"
+    },
+    {
+      "source": "content/notes/setup",
+      "target": "/notes/editing",
+      "text": "Editing Notes in Quartz"
+    },
+    {
+      "source": "content/notes/setup",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support (测试)"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/ignore-notes",
+      "text": "excluding pages from being published"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/editing",
+      "text": "the 'how to edit' guide"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "the hosting guide"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/config",
+      "text": "customization guide"
+    },
+    {
+      "source": "content/notes/troubleshooting",
+      "target": "/notes/editing",
+      "text": "local editing"
+    }
+  ]
+}
