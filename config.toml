@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://JohnEdChristensen.Github.io/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-HW0WS3WFZW"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
