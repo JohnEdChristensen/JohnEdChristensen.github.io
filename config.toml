@@ -1,7 +1,7 @@
 baseURL = "https://JohnEdChristensen.Github.io/"
 languageCode = "en-us"
 googleAnalytics = "G-HW0WS3WFZW"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
