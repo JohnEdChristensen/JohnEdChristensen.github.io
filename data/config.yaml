@@ -13,7 +13,7 @@ enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description: This is the config description
 page_title:
-  "John Christensen's Garden"
+  "John Christensen"
 links:
   - link_name: Twitter
     link: https://twitter.com/JohnnyC1423
