@@ -1,5 +1,5 @@
 ---
-Title: "WebbCompare"
+title: "WebbCompare"
 tags:
 - Development
 - Astronomy
